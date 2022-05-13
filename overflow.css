@@ -1,0 +1,7 @@
+.container{
+    border:1px solid red;
+    width:150px;
+    height:200px;
+    background: yellow;
+    overflow:scroll; /*visible durumu gösteriyor, hidden:artan kismi sakliyor, scroll: yandan cekme ve alttan saga sola cekme ile tüm kismi okunabilir hale getiriyor. auto: kismi ile de sadece sagdan yukari asagi yaptiriyor metni.*/
+}
